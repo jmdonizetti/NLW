@@ -9,8 +9,8 @@
 
 body{
     background-image: url(imagens/bg.jpg);
-    background-attachment: fixed;
     background-position: top center;
+    background-attachment: fixed;
     background-size: 100% auto;
     background-repeat: no-repeat;
     background-color: #121214;
